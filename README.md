@@ -1,4 +1,4 @@
-- 👋 Je m'appel @TomL09
+- 👋 Je m'appel Tom
 - 🌱 Je suis en BTS SIO
 
 <!---
