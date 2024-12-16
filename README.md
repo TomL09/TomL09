@@ -1,9 +1,12 @@
-- 👋 Je m'appel Tom
-- 🌱 Je suis en BTS SIO
-- J'ai 18 ans
-- 🧙 J'adore League Of Legends  
+# 👋 Salut, moi c'est Tom Laisney !
 
-<!---
-TomL09/TomL09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🧑‍💻 À propos de moi  
+- 🎓 **Étudiant** en 1ère année de **BTS SIO** *(Services Informatiques aux Organisations)*  
+- 🌱 Actuellement, j'apprends à devenir un pro en développement et administration réseaux  
+
+### 🔧 Compétences & Technologies  
+- **Développement :** HTML, PHP, CSS 
+- **Réseaux :** Notions de base 
+
+### 🌟 Fun fact  
+J'aime jouer à League Of Legends 😅
